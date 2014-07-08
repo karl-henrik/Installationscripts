@@ -2,38 +2,40 @@
 
 #**Useful links**
 
-##**Commonly used software**
-VisualStudio2013Ultimate -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"
-WebEssentials2012
-resharper
-dotPeek
+###**Commonly used software**
+[VisualStudio2013Ultimate -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"](www.msdn.com)
+[WebEssentials2012](http://vswebessentials.com/)
+[resharper](http://www.jetbrains.com/resharper/)
+[dotPeek](http://www.jetbrains.com/decompiler/)
 
 ####**databases and tools**
-MsSqlServer
+[MsSqlServer](www.msdn.com)
 
 ####**browsers and add-ins**
-Firefox
+[Firefox](http://www.mozilla.org/sv-SE/firefox/new/)
 adblockplusfirefox
 
 ####**Sourcecode handlers**
-git.install
-gitextensions
+[git](www.github.com)
+
 
 ####**Presenting tools**
-zoomit
+[zoomit](http://technet.microsoft.com/en-us/sysinternals/bb897434.aspx)
 
 
 ####**Other tools**
-notepadplusplus
-7zip
-fiddler
-linqpad4
-autohotkey
+[notepadplusplus](http://notepad-plus-plus.org/)
+[7zip](http://www.7-zip.org/)
+[fiddler](http://www.telerik.com/fiddler)
+[linqpad4](http://www.linqpad.net/)
+[autohotkey](http://www.autohotkey.com/)
 
 ####**Troubleshooting tools and similar**
-sysinternals 
+[sysinternals](http://technet.microsoft.com/en-us/sysinternals/bb545021.aspx) 
 
-##**Software lists**
+---------------------------------------------------
 
-###**On the web**
+###**Software lists**
+
+####**On the web**
 [Scott Hanselmans suggestions for developers and powerusers (2011)](http://www.hanselman.com/blog/ScottHanselmans2011UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
