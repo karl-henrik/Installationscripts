@@ -13,6 +13,7 @@
 
 ####**browsers and add-ins**
 [Firefox](http://www.mozilla.org/sv-SE/firefox/new/)
+
 adblockplusfirefox
 
 ####**Sourcecode handlers**
@@ -25,9 +26,13 @@ adblockplusfirefox
 
 ####**Other tools**
 [notepadplusplus](http://notepad-plus-plus.org/)
+
 [7zip](http://www.7-zip.org/)
+
 [fiddler](http://www.telerik.com/fiddler)
+
 [linqpad4](http://www.linqpad.net/)
+
 [autohotkey](http://www.autohotkey.com/)
 
 ####**Troubleshooting tools and similar**
