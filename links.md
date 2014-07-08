@@ -33,8 +33,6 @@ autohotkey
 ####**Troubleshooting tools and similar**
 sysinternals 
 
-___________________________________________________
-
 ###**Software lists**
 
 [Scott Hanselmans suggestions for developers and powerusers (2011)](http://www.hanselman.com/blog/ScottHanselmans2011UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
