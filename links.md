@@ -1,8 +1,8 @@
 
 
-##**Useful links**
+#**Useful links**
 
-###**Commonly used software**
+##**Commonly used software**
 VisualStudio2013Ultimate -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"
 WebEssentials2012
 resharper
@@ -33,6 +33,7 @@ autohotkey
 ####**Troubleshooting tools and similar**
 sysinternals 
 
-###**Software lists**
+##**Software lists**
 
+###**On the web**
 [Scott Hanselmans suggestions for developers and powerusers (2011)](http://www.hanselman.com/blog/ScottHanselmans2011UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
