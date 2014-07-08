@@ -3,9 +3,12 @@
 #**Useful links**
 
 ###**Commonly used software**
-[VisualStudio2013Ultimate -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"](www.msdn.com)
+[VisualStudio Ultimate](www.msdn.com)
+
 [WebEssentials2012](http://vswebessentials.com/)
+
 [resharper](http://www.jetbrains.com/resharper/)
+
 [dotPeek](http://www.jetbrains.com/decompiler/)
 
 ####**databases and tools**
