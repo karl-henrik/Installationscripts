@@ -1,8 +1,11 @@
 # INSTALL CHOCOLATERY
 echo "Installing Chocolatey Nuget Pkg-manager"
-@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('http://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%systemdrive%\chocolatey\bin
+iex ((new-object net.webclient).DownloadString('http://chocolatey.org/install.ps1'))
+$env:path += ";C:\chocolatey\bin"
 
 # INSTALL APPS AND DEV TOOLS
 echo "Installing apps and dev tools"
-@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://github.com/karl-henrik/Installationscripts/DevSoftware-Ultimate.ps1'))"
+iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/karl-henrik/Installationscripts/master/DevSoftware-Ultimate.ps1'))
+
+
 
