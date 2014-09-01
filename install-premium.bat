@@ -1,7 +1,7 @@
 # INSTALL CHOCOLATERY
 echo "Installing Chocolatey Nuget Pkg-manager"
 iex ((new-object net.webclient).DownloadString('http://chocolatey.org/install.ps1'))
-SET PATH=%PATH%;%systemdrive%\chocolatey\bin
+$env:path += ";C:\chocolatey\bin"
 
 # INSTALL APPS AND DEV TOOLS
 echo "Installing apps and dev tools"
