@@ -5,4 +5,4 @@ SET PATH=%PATH%;%systemdrive%\chocolatey\bin
 
 # INSTALL APPS AND DEV TOOLS
 echo "Installing apps and dev tools"
-iex ((new-object net.webclient).DownloadString('https://github.com/karl-henrik/Installationscripts/DevSoftware-Premium.ps1'))
+iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/karl-henrik/Installationscripts/master/DevSoftware-Premium.ps1'))
