@@ -1,5 +1,5 @@
 cinst VisualStudio2013Premium -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"
+cinst Office365HomePremium
 cinst resharper
-cinst Office365ProPlus
 cinst MsSqlServer2014Express
 cinst MsSqlServerManagementStudio2014Express
