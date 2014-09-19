@@ -4,20 +4,8 @@ cinst WebEssentials2012
 cinst resharper
 cinst dotPeek 
 
-# databases and tools
-cinst MsSqlServer2012Express
-
-# browsers and add-ins
-cinst Firefox
-cinst adblockplusfirefox
-
-#Sourcecode handlers
-cinst git.install
-cinst gitextensions
-
 #Presenting tools
 cinst zoomit
-
 
 # Other tools
 cinst notepadplusplus
