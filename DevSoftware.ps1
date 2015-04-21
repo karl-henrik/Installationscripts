@@ -1,5 +1,5 @@
 # Visual studio + add-ins
-cinst VisualStudio2013Premium -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"
+cinst VisualStudio2013Ultimate -InstallArguments "Blend LightSwitch VC_MFC_Libraries OfficeDeveloperTools SQL WebTools Win8SDK SilverLight_Developer_Kit WindowsPhone80"
 cinst visualstudio2013-webessentials.vsix  
 cinst resharper
 cinst dotPeek 
